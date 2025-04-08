@@ -5,7 +5,7 @@
 
 ## 📖 Overview
 
-**Clinic_Appointment_SystemMain** is a web-based veterinary clinic appointment system designed to streamline the scheduling, management, and monitoring of pet healthcare services. It provides a seamless interface for pet owners to book appointments and for clinic staff to manage those appointments efficiently.
+**Clinic_Appointment_SystemMain** is a application for veterinary clinic appointment system designed to streamline the scheduling, management, and monitoring of pet healthcare services. It provides a seamless interface for pet owners to book appointments and for clinic staff to manage those appointments efficiently.
 
 ---
 
