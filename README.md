@@ -1,5 +1,4 @@
 # 🐾 PawH: AN INTEGRATED VETERINARY CLINIC APPOINTMENT SYSTEM
-n Integrated Veterinary Clinic Appointment System
 ### 📌 Project Name: Clinic_Appointment_SystemMain
 
 ---
