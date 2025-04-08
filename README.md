@@ -1,5 +1,4 @@
-# 🐾 PawHVeterinaryAppointmentSystem
-# An Integrated Veterinary Clinic Appointment System
+# 🐾 PawHVeterinaryAppointmentSystem : An Integrated Veterinary Clinic Appointment System
 ### 📌 Project Name: Clinic_Appointment_SystemMain
 
 ---
